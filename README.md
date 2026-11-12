@@ -12,19 +12,9 @@
 
 This project will cover using the energy from solar panels and convert into subclasses such as lights and power for printers and chargers to use. With the use of the converter, the energy that comes from the sun will not go to waste and will be directed towards helping people.
 
-System components, features, etc....
+The solar panel will be the main basis and component of the whole project, and the energy converter would change the energy to voltage and current to make wattage. The expected outcome of the tests should be in wattage as voltage multiplied by current equals to wattage. The energy provided by the solar panel should be able to make the raw values into wattage automatically, and provide the power to be used for the target people.
 
 Our project's target demographics are people who are less fortunate when it comes to their financial status to provide help for them, and for the energy to be used for possible streetlights or energy for electricity or water pumps. Another potential target could be students that are primarily at school, and the energy could be used for the use of free charging or the use of air conditioning or better school facilities.
-
-
-
-
-
-- A brief summary of the project description and the need for it.
-
-- Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
-
-- Include the description as well of your target demographics as the user of your application. 
 
 - The description is then followed by the class diagram, depicting clearly what was described.
 
