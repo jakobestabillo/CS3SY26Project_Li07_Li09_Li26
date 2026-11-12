@@ -2,15 +2,19 @@
 
 
 ## Project Proposal Template:
-cvbbbc
+
 ### Project Title or Name of the Application	:  Solar Panel Energy Converter
 ### Section			   	      : Lithium
 ### Group Members			    : Dy, Estabillo, Rivera
-### Date (Proposal Date)  : Nov 5, 2026
-fdfhdfhfshsdhfhhtrthdfh
+### Date (Proposal Date)  : Nov 12, 2026
+
 ### Project Description:
 
-Our project will cover using the energy from solar panels and convert into subclasses such as lights and power for printers and chargers to use. 
+This project will cover using the energy from solar panels and convert into subclasses such as lights and power for printers and chargers to use. With the use of the converter, the energy that comes from the sun will not go to waste and will be directed towards helping people.
+
+System components, features, etc....
+
+Our project's target demographics are people who are less fortunate when it comes to their financial status to provide help for them, and for the energy to be used for possible streetlights or energy for electricity or water pumps. Another potential target could be students that are primarily at school, and the energy could be used for the use of free charging or the use of air conditioning or better school facilities.
 
 
 
