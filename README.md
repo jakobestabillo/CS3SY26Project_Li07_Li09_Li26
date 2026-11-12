@@ -3,12 +3,18 @@
 
 ## Project Proposal Template:
 cvbbbc
-### Project Title or Name of the Application	:
-### Section			   	      :
-### Group Members			    :
+### Project Title or Name of the Application	:  Solar Panel Energy Converter
+### Section			   	      : Lithium
+### Group Members			    : Dy, Estabillo, Rivera
 ### Date (Proposal Date)  : Nov 5, 2026
 fdfhdfhfshsdhfhhtrthdfh
 ### Project Description:
+
+Our project will cover using the energy from solar panels and convert into subclasses such as lights and power for printers and chargers to use. 
+
+
+
+
 
 - A brief summary of the project description and the need for it.
 
