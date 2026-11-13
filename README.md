@@ -13,7 +13,7 @@ The solar panel will be the main basis and component of the whole project, and t
 
 Our project's target demographics are people who are less fortunate when it comes to their financial status to provide help for them, and for the energy to be used for possible streetlights or energy for electricity or water pumps. Another potential target could be students that are primarily at school, and the energy could be used for the use of free charging or the use of air conditioning or better school facilities.
 
-![Uploading image.png…]()
+<img width="1350" height="1018" alt="image" src="https://github.com/user-attachments/assets/8ea2a47f-ae96-46f5-9df1-2f7dfe4ad76a" />
 
 
 ### Goals:
