@@ -13,6 +13,9 @@ The solar panel will be the main basis and component of the whole project, and t
 
 Our project's target demographics are people who are less fortunate when it comes to their financial status to provide help for them, and for the energy to be used for possible streetlights or energy for electricity or water pumps. Another potential target could be students that are primarily at school, and the energy could be used for the use of free charging or the use of air conditioning or better school facilities.
 
+![Uploading image.png…]()
+
+
 ### Goals:
 
 Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
