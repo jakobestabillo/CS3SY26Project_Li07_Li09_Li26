@@ -1,7 +1,4 @@
-# CS3SY26_ProjectProposal by Aline Teresa Mendoza from CS Unit of PSHS
-
-
-## Project Proposal Template:
+# CS3SY26_ProjectProposal
 
 ### Project Title or Name of the Application	:  Solar Panel Energy Converter
 ### Section			   	      : Lithium
