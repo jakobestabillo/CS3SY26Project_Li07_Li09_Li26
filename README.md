@@ -27,7 +27,9 @@ Our project's target demographics are people who are less fortunate when it come
 Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
 
 - Objective 1: To display proficiency and efficiency in using OOP in python over the course of the rest of the school year.
+
 - Objective 2: To be able to properly demonstrate to our target demographic how solar panels work to recycle the sun’s energy into energy we can use to power devices and appliances.
+
 - Objective 3:  To be able to use coding, especially OOP, to make feasible blueprints in making solutions to real world problems.
 
 [Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
